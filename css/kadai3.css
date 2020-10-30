@@ -1,0 +1,26 @@
+h1{
+    color:#fffff1;
+    font-size:50px;
+    font-weight: bold;
+    text-align: center;
+    background-color:#2394ff;
+}
+
+
+h2{
+    color:#fffff1;
+    text-align: center;
+    background-color:#ff0011;
+}
+
+h3{
+    color:#ffff11;
+}
+
+p{
+    color:#ffffff;
+}
+
+body{
+    background-image:url(../images/apo.jpg);
+}
