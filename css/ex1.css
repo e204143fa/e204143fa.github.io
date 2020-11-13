@@ -1,0 +1,39 @@
+h1{
+    color:#ffffff;
+    font-size:50px;
+    font-weight: bold;
+    text-align: center;
+    background-color:#2394ff;
+}
+
+
+h2{
+    color:#fffff1;
+    text-align: center;
+    background-color:#ff0012;
+}
+
+h3{
+    color:#ffff11;
+}
+
+p{
+    color:#ffffff;
+}
+
+body{
+    background-image:url(../images/Free.jpg);
+}
+
+
+table{
+    background-color:#c70000
+}
+
+tr{
+    color:#ffffff
+}
+
+ol{
+    background-image:url(../images/Yellow.jpg);
+}
