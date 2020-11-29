@@ -1,0 +1,32 @@
+p.whitecolor{
+    color:white;
+}
+
+h1.darkturquoisecolor{
+    background-color:blanchedalmond;
+    color:darkturquoise;
+}
+
+h2.greencolor{
+    background-color: green;
+    color:white;
+}
+
+h1{
+    color:#ffffff;
+    font-weight: bold;
+    text-align: center;
+    background-color:#000000;
+}
+
+h2{
+    color:#ffffff;
+    font-weight: bold;
+    text-align: center;
+    background-color:#ff0102;
+}
+
+body{
+    background-image:url(../images/Earth.jpg);
+}
+
