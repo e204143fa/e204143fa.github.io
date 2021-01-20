@@ -1,0 +1,85 @@
+body {
+    background-image: url(../images/Red.jpg);
+    background-attachment: fixed;
+    background-position: bottom center;
+}
+
+div.title {
+    width: 1000px;
+    height: 100px;
+    text-align: left;
+    font-size: 50px;
+    padding-left: 30px;
+    background-color:lightgrey;
+    font-family: "impact";
+}
+
+div.menu {
+    margin: 20px 20px;
+    display: inline-block;
+}
+
+span.meuniten {
+    display: inline-block;
+    width: 237px;
+    height: 50px;
+    background-color: navajowhite;
+    font-size: 30px;
+    text-align: center;
+}
+
+div.topcontents {
+    width: 1100px;
+    height: 800px;
+    margin: 20px;
+}
+
+div.contents1 {
+    width: 1100px;
+    height: 250px;
+    margin: 2.5px;
+}
+
+div.Blade {
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.Evill {
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.contents2 {
+    width: 1100px;
+    height: 400px;
+    margin: 2.5px;
+}
+
+div.takauji {
+    width: 400px;
+    height: 100px;
+    display: inline-block;
+}
+
+div.footer {
+    width: 1000px;
+    height: 100px;
+    text-align: right;
+    font=size: 50px;
+    display: inline-block;
+    margin: 20px
+    color: white;
+}
+
+
+element.style {
+    position: absolute;
+    cursor: pointer;
+    z-index: 2147483647;
+    background: transparent;
+    top: -100000px;
+    left: -100000px;
+}
