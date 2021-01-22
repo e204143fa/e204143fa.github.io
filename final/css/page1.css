@@ -39,10 +39,19 @@ body {
 
 p#op{
     font-size: 20px;
-    color:purple;
+    color:whitesmoke;
 }
 
 p#top{
     font-size: 30px;
-    color:coral;
+    background-color:chocolate;
+    color:white;
+}
+
+table{
+    background-color: yellow;
+}
+
+ol{
+    background-color: darkcyan;
 }
