@@ -1,0 +1,67 @@
+div.title {
+    width: 1000px;
+    height: 100px;
+    text-align: left;
+    font-size: 50px;
+    padding-left: 30px;
+    background-color:lightgrey;
+    font-family: "impact";
+}
+
+body {
+    background-image: url(../images/Red.jpg);
+    background-attachment: fixed;
+    background-position: bottom center;
+}
+
+p#title1{
+    font-size: 30px;
+    color:whitesmoke;
+    background-color: black;
+    text-align: center;
+}
+p#title2{
+    font-size: 30px;
+    color:black;
+    background-color: ivory;
+    text-align: center;
+}
+
+p#title3{
+    font-size: 30px;
+    color:white;
+    background-color: teal;
+    text-align: center;
+}
+
+p#title4{
+    font-size: 30px;
+    color:black;
+    background-color: silver;
+    text-align: center;
+}
+
+p#title5{
+    font-size: 30px;
+    color:white;
+    background-color: hotpink;
+    text-align: center;
+}
+
+p#title6{
+    font-size: 30px;
+    color:white;
+    background-color: violet;
+    text-align: center;
+}
+
+p#title7{
+    font-size: 30px;
+    color:white;
+    background-color: forestgreen;
+    text-align: center;
+}
+
+ol{
+    color: ghostwhite;
+}
