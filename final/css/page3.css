@@ -1,0 +1,95 @@
+div.title {
+    width: 1000px;
+    height: 100px;
+    text-align: left;
+    font-size: 50px;
+    padding-left: 30px;
+    background-color:lightgrey;
+    font-family: "impact";
+}
+
+div.menu {
+    margin: 20px 20px;
+    display: inline-block;
+}
+
+span.meuniten {
+    display: inline-block;
+    width: 237px;
+    height: 50px;
+    background-color: navajowhite;
+    font-size: 30px;
+    text-align: center;
+}
+
+p#title1{
+    font-size: 20px;
+    color:whitesmoke;
+    background-color: black;
+    text-align: left;
+}
+
+body {
+    background-image: url(../images/Red.jpg);
+    background-attachment: fixed;
+    background-position: bottom center;
+}
+
+div.contents1 {
+    width: 1100px;
+    height: 250px;
+    margin: 20px;
+}
+
+div.Blade {
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.DX {
+    width: 270px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.Dunbine {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+div.car{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+}
+
+div.SX {
+    width: 270px;
+    height: 340px;
+    display: inline-block;
+}
+
+address{
+    color: white;
+}
+
+p#op{
+    font-size: 20px;
+    color:whitesmoke;
+}
+
+p#top{
+    font-size: 40px;
+    text-align: center;
+    color:white;
+}
+
+table{
+    background-color: yellow;
+}
+
+ol{
+    background-color: darkcyan;
+}
